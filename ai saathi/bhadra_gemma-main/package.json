@@ -1,0 +1,12 @@
+{
+  "name": "ai-saathi",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd server && node index.js",
+    "dev:client": "cd client && npx vite --host"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

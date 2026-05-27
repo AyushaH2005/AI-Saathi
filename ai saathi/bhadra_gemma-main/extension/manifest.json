@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "AI Saathi",
+  "description": "Your screen helper — ask anything about what you see, in your language",
+  "version": "1.0",
+  "permissions": ["activeTab", "tabs"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["content.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
