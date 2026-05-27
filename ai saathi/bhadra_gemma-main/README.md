@@ -1,5 +1,7 @@
 # AI Saathi — AI Saathi (आर्टिफिशियल इंटेलिजेंस साथी)
 
+Refer to Lovable Link here - https://yono-ai-saathi-guide.lovable.app/
+
 **Your personal digital assistant — built with Gemma 4, powered by LangGraph, designed for Digital India.**
 
 AI Saathi helps anyone navigate the digital world — explain pages in your language, simplify complex text, detect scams, guide you step-by-step, and even fill forms safely
