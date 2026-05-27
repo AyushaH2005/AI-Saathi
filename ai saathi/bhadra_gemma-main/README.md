@@ -1,5 +1,7 @@
 # AI Saathi — AI Saathi (आर्टिफिशियल इंटेलिजेंस साथी)
 
+This project is deployed for all applications running on mobile but the prototype has been developed for YonoSBI App
+
 Refer to Lovable Link here - https://yono-ai-saathi-guide.lovable.app/
 
 **Your personal digital assistant — built with Gemma 4, powered by LangGraph, designed for Digital India.**
