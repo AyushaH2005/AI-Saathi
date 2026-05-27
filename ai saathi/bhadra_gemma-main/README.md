@@ -2,8 +2,7 @@
 
 **Your personal digital assistant — built with Gemma 4, powered by LangGraph, designed for Digital India.**
 
-AI Saathi helps anyone navigate the digital world — explain pages in your language, simplify complex text, detect scams, guide you step-by-step, and even fill forms safely. Built for the [Gemma 4 Hackathon](https://google.dev/gemma) (Digital Equity & Inclusivity track).
-
+AI Saathi helps anyone navigate the digital world — explain pages in your language, simplify complex text, detect scams, guide you step-by-step, and even fill forms safely
 ---
 
 ## What It Does
